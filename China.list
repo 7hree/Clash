@@ -2,6 +2,7 @@
 # AUTHOR: 7hree
 DOMAIN-KEYWORD,duolingo
 DOMAIN-KEYWORD,wlan.jsyd139.com
-PROCESS-NAME,BaiduNetdisk
-PROCESS-NAME,BaiduNetdisk.exe
-PROCESS-NAME,BaiduNetdiskUpdate.exe
+PROCESS-NAME,baidunetdisk
+PROCESS-NAME,Autoupdate.exe
+PROCESS-NAME,baidunetdisk.exe
+PROCESS-NAME,baidunetdiskhost.exe
