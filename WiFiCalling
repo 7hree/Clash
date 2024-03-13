@@ -1,6 +1,6 @@
 # NAME: WiFiCalling
 # AUTHOR: 7hree
 DOMAIN-SUFFIX,t-mobile.com
-IP-CIDR,208.54.0.0/16,no-resolve
-IP-CIDR,66.94.0.0/19,no-resolve
-IP-CIDR,206.29.177.36/32,no-resolve
+IP-CIDR,208.54.0.0/16
+IP-CIDR,66.94.0.0/19
+IP-CIDR,206.29.177.36/32
